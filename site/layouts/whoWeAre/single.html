@@ -1,9 +1,6 @@
 {{ define "main" }}
     <article class="container fillVerticalSpace">
-        {{ with .Params.image }}
-            {{ . }}
-        {{ end }}
-        {{ with .Params.indexText }}
+        {{ with .Params.contentText }}
             {{ . | markdownify }}
         {{ end }}
     </article>

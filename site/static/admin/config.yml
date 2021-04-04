@@ -8,16 +8,22 @@ collections:
   - label: "Pages"
     name: "pages"
     files:
+      - label: "Homepage"
+        name: "index"
+        file: "site/content/index.md"
+        fields:
+          - {label: Image, name: image, widget: image, required: false}
+          - {label: "Homepage text", name: indexText, widget: markdown}
       - label: "Who we are"
         name: "whoWeAre"
-        file: "site/content/whoWeAre/index.yml"
+        file: "site/content/whoWeAre/index.md"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Intro, name: intro, widget: markdown}
-          - label: Team
-            name: team
+          - {label: "Content Text", name: contentText, widget: markdown}
+          - label: Individuals
+            name: individuals
             widget: list
             fields:
               - {label: Name, name: name, widget: string}
-              - {label: Position, name: position, widget: string}
-              - {label: Photo, name: photo, widget: image}
+              - {label: Position, name: position, widget: string, required: false}
+              - {label: Bio, name: bio, widget: markdown, required: false}
+              - {label: Photo, name: photo, widget: image, required: false}
