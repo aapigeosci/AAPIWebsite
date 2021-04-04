@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <article class="container fillVerticalSpace">
+    {{- .Content -}}
+    <ul class="simpleListing">
+        {{ range .Params.individuals }}
+            <li>
+                {{ .name }}
+            </li>
+        {{ end }}
+    </ul>
+  </article>
+{{ end }}

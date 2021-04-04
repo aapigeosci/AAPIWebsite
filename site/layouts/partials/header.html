@@ -3,23 +3,25 @@
 		<!-- Primary Nav -->
 		<ul class="mainNavMenu">
 			{{ $currentPage := . }}
+			{{- $firstUrlElement := print "/" (index (split .RelPermalink "/") 1) "/" -}}
 			{{ range .Site.Menus.main }}
 				{{ if .HasChildren }}
-					<li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}needsSubMenu">
+					<li class='{{if or ($.IsMenuCurrent "main" .) (eq ($firstUrlElement|lower) (.URL|lower)) }}active{{end}} needsSubMenu'>
 						<a href="{{ .URL }}">
 							{{ .Pre }}
+							
 							<span>{{ .Name }}</span>
 						</a>
 						<ul class="subMenu">
 							{{ range .Children }}
-								<li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+								<li class='{{if or ($.IsMenuCurrent "main" .) (eq ($currentPage.RelPermalink) (.URL|lower)) }}active{{end}}'>
 									<a href="{{ .URL }}">{{ .Name }}</a>
 								</li>
 							{{ end }}
 						</ul>
 					</li>
 				{{ else }}
-					<li class="">
+					<li class='{{if or ($.IsMenuCurrent "main" .) (eq ($firstUrlElement|lower) (.URL|lower)) }}active{{end}}'>
 						<a href="{{ .URL }}">
 							{{ .Pre }}
 							<span>{{ .Name }}</span>

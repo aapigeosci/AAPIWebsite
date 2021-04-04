@@ -31,6 +31,8 @@ body {
 
 nav{
   margin-top: 1.8rem;
+  padding-bottom: 1.8rem;
+  border-bottom: 1px solid #000;
 }
 
 nav a{
@@ -54,10 +56,35 @@ nav li{
   grid-auto-flow: row;
 }
 
-.subMenu{
+.subMenu {
   padding: 0 0 0 1.8rem;
+  text-decoration: none;
+  display: none;
 }
 
+.active{
+  text-decoration: underline red;
+  text-underline-position: under
+}
+
+/* Page lists */
+
+.simpleListing {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-gap: 1.8rem;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.simpleListing li {
+  grid-column-end: span 2;
+}
+
+.summary{
+  margin-top: 1.8rem;
+  font-style: italic;
+}
 
 /* Footer */
 
@@ -102,6 +129,11 @@ footer{
 
 /* Larger than phablet */
 @media only screen and (min-width: 550px) {
+
+  nav{
+    border-bottom: none;
+  }
+
   .mainNavMenu {
     grid-auto-flow: column;
   }
@@ -113,6 +145,11 @@ footer{
     padding: 1rem;
     transform: rotateX(-90deg)translateX(-1rem);
     border: 1px solid black;
+    display: block;
+  }
+
+  .needsSubMenu:hover {
+    text-decoration: none;
   }
   
   .needsSubMenu:hover .subMenu, .needsSubMenu:focus-within .subMenu {
@@ -120,6 +157,11 @@ footer{
     transform: rotateX(0)translateX(-1rem);
     visibility: visible;
   }
+
+  .simpleListing li {
+    grid-column-end: span 1;
+  }
+
 }
 
 /* Larger than tablet */

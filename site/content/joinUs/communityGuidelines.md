@@ -3,6 +3,7 @@ title: Community Guidelines
 menu: 
     main:
         parent: Join Us
+summary: "Guidelines for all conduct in spaces where the AAPIiG community congregates, whether online or in-person."
 ---
 
 Thank you for your interest in the AAPIiG community. As part of [our mission](/about/ourMission.md), we aim to create a place where all members feel safe, included, and able to particulate as their whole selves. As an affinity space, we recognize that everyone is at different stages of identity formation, especially as it pertains to our role as geoscientists. We strive to make AAPIiG an organization that fosters environments where this lifelong journey of learning and introspection may occur.

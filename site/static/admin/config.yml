@@ -10,20 +10,19 @@ collections:
     files:
       - label: "Homepage"
         name: "index"
-        file: "site/content/index.md"
+        file: "site/content/_index.md"
         fields:
           - {label: Image, name: image, widget: image, required: false}
           - {label: "Homepage text", name: indexText, widget: markdown}
-      - label: "Who we are"
-        name: "whoWeAre"
-        file: "site/content/whoWeAre/index.md"
+      - label: "Community Administrators"
+        name: "communityAdministrators"
+        file: "site/content/whoWeAre/communityAdministrators.md"
         fields:
-          - {label: "Content Text", name: contentText, widget: markdown}
-          - label: Individuals
+          - label: Community Administrators
             name: individuals
             widget: list
             fields:
-              - {label: Name, name: name, widget: string}
+              - {label: Name, name: name, widget: markdown}
               - {label: Position, name: position, widget: string, required: false}
-              - {label: Bio, name: bio, widget: markdown, required: false}
-              - {label: Photo, name: photo, widget: image, required: false}
+              - {label: Institution, name: institution, widget: string, required: false}
+              - {label: Contact, name: contact, widget: string, required: false}
