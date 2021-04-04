@@ -1,0 +1,32 @@
+<header class="container">
+	<nav>
+		<!-- Primary Nav -->
+		<ul class="mainNavMenu">
+			{{ $currentPage := . }}
+			{{ range .Site.Menus.main }}
+				{{ if .HasChildren }}
+					<li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}needsSubMenu">
+						<a href="{{ .URL }}">
+							{{ .Pre }}
+							<span>{{ .Name }}</span>
+						</a>
+						<ul class="subMenu">
+							{{ range .Children }}
+								<li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+									<a href="{{ .URL }}">{{ .Name }}</a>
+								</li>
+							{{ end }}
+						</ul>
+					</li>
+				{{ else }}
+					<li class="">
+						<a href="{{ .URL }}">
+							{{ .Pre }}
+							<span>{{ .Name }}</span>
+						</a>
+					</li>
+				{{ end }}
+			{{ end }}
+		</ul>
+	</nav>	
+</header>

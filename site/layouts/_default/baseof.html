@@ -14,17 +14,18 @@
 </head>
 
 <body>
+  <div class="toContainEverything">
+    {{ block "header" . }}{{ partial "header" . }}{{end}}
 
-  {{ block "header" . }}{{ partial "header" . }}{{end}}
+    {{ block "main" . }}{{end}}
 
-  {{ block "main" . }}{{end}}
+    {{ block "footer" . }}{{ partial "footer" . }}{{end}}
 
-  {{ block "footer" . }}{{ partial "footer" . }}{{end}}
-
-  {{ $script := .Site.Data.webpack.main }}
-  {{ with $script.js }}
-    <script src="{{ relURL . }}"></script>
-  {{ end }}
+    {{ $script := .Site.Data.webpack.main }}
+    {{ with $script.js }}
+      <script src="{{ relURL . }}"></script>
+    {{ end }}
+  </div>
 </body>
 
 </html>
