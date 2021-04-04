@@ -12,7 +12,7 @@ To ensure the best possible experience for all participants, we have established
 
 By joining or participating in AAPIiG activities, you agree that you have read and will follow these guidelines. We reserve the right to suspend or terminate a participant’s ability to engage in AAPIiG events and spaces if they violate these rules.
 
-If you have questions about these rules, the community, or how you can participate, please contact a [Community Administrator].
+If you have questions about these rules, the community, or how you can participate, please contact a [Community Administrator](/whoWeAre/communityAdministrators).
 
 **All participants are to:**
 - Use their true identity, especially in online spaces;
