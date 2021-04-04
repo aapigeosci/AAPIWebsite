@@ -9,7 +9,6 @@
 					<li class='{{if or ($.IsMenuCurrent "main" .) (eq ($firstUrlElement|lower) (.URL|lower)) }}active{{end}} needsSubMenu'>
 						<a href="{{ .URL }}">
 							{{ .Pre }}
-							
 							<span>{{ .Name }}</span>
 						</a>
 						<ul class="subMenu">
@@ -23,8 +22,12 @@
 				{{ else }}
 					<li class='{{if or ($.IsMenuCurrent "main" .) (eq ($firstUrlElement|lower) (.URL|lower)) }}active{{end}}'>
 						<a href="{{ .URL }}">
-							{{ .Pre }}
-							<span>{{ .Name }}</span>
+							{{ if eq .URL "/" }}
+								<img src="/img/AAPILogo1500.png">
+							{{ else }}
+								{{ .Pre }}
+								<span>{{ .Name }}</span>
+							{{ end }}
 						</a>
 					</li>
 				{{ end }}

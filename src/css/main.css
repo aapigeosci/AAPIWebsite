@@ -26,6 +26,40 @@ body {
   width: 100%
 }
 
+/* Images */
+
+img, embed, object, video {
+  max-width: 100%;
+}
+
+img {
+  margin: 0;
+  display: block;
+}
+
+nav img {
+  height: 7.2rem;
+}
+
+/* Links */
+
+a, a > figure, a > img {
+  color: #000;
+  /*text-underline-position: under;*/
+  text-decoration-skip-ink: auto;
+  text-decoration: underline;
+}
+
+a:hover, a:hover > figure, a:hover > img {
+  color: #red;
+  -webkit-filter: grayscale(15);
+  -webkit-transition: .25s cubic-bezier(.2,.6,.4,1);
+}
+
+a:visited{
+  color: #000;
+}
+
 
 /* Navigation menu, complete with sub-menus */
 
@@ -53,7 +87,7 @@ nav li{
   margin: 0;
   padding: 0;
   display: grid;
-  grid-auto-flow: row;
+  align-items: center;
 }
 
 .subMenu {
