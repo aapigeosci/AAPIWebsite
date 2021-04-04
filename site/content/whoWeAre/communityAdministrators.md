@@ -4,7 +4,7 @@ menu:
   main:
     parent: Who We Are
 summary: A list of community administrators.
-layout: gridContents
+layout: CAGridListing
 individuals:
   - name: "**Caleb K. Walcott** (he/him)"
     position: Graduate Student
@@ -25,4 +25,26 @@ individuals:
     position: Postdoctoral Researcher
     institution: Dartmouth College
     contact: jeemin.h.rhim [at] dartmouth.edu
+  - name: "**Kimberly Lau** (she/her)"
+    position: Assistant Professor
+    institution: Penn State University
+    contact: kvlau [at] psu.edu 
+  - name: "**Luan Heywood** (she/her)"
+    position: Research Associate
+    institution: JOIDES Resolution Science Operator
+    contact: luan.heywood [at] gmail.com
+  - name: "**Priyanka (Priya) Bose** (she/her)"
+    position: Graduate Student
+    institution: Virginia Tech
+    contact: priyanka18 [at] vt.edu
+  - name: "**Thi Truong** (she/her)"
+    position: Graduate Student
+    institution: Oregon State University
+    contact: truongthi [at] oregonstate.edu
+  - name: "**Victor Guevara** (he/him)"
+    position: Assistant Professor
+    institution: Amherst College
+    contact: vguevara [at] amherst.edu
 ---
+
+*Note: In Slack, Community Administrators will have the word **[Admin]** in their Display Name.*
