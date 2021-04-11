@@ -34,7 +34,7 @@ collections:
             name: initiatives
             widget: list
             fields:
-              - {label: Image, name: image, widget: image}
+              - {label: Image, name: image, widget: image, required: false}
               - {label: Title, name: title, widget: markdown, required: true}
               - {label: Date and Time, name: dateTime, widget: string, required: false}
               - {label: Description, name: description, widget: markdown, required: false}
