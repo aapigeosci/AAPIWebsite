@@ -2,8 +2,8 @@
 title: Community Administrators
 menu:
   main:
-    parent: Who We Are
-summary: A list of community administrators.
+    parent: Get Involved
+summary: For our online activities and spaces, feel free to contact any Online Community Administrator for assistance with any issue.
 layout: CAGridListing
 individuals:
   - name: "**Caleb K. Walcott** (he/him)"
@@ -47,4 +47,4 @@ individuals:
     contact: vguevara [at] amherst.edu
 ---
 
-*Note: In Slack, Community Administrators will have the word **[Admin]** in their Display Name.*
+For our online activities and spaces, feel free to contact any Online Community Administrator for assistance with any issue. Note: In Slack, Community Administrators will have the word **[Admin]** in their Display Name.

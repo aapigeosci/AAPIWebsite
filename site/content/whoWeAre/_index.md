@@ -1,7 +1,7 @@
 ---
 title: Who We Are
 menu: main
-weight: 200
+weight: 25
 ---
 
-AAPIiG is made up of...
+Read more about the following:

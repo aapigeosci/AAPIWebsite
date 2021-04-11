@@ -123,12 +123,13 @@ nav li{
 /* Footer */
 
 footer{
-  border-top: 1px solid #000;
   text-align: center;
   font-size: 1.6rem;
 }
 
 .footerContents{
+  border-top: 1px solid #000;
+  padding: 1.8rem 0 1.8rem 0;
   margin: 1.8rem 0 1.8rem 0;
 }
 

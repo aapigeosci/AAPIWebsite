@@ -3,10 +3,10 @@ title: Steering Committee
 menu: 
     main:
         parent: Who We Are
-summary: "A list of members of the AAPIiG Steering Committee."
+summary: "The leaders and organizers who make AAPIiG happen."
 ---
 
-This group would not be possible without the collective efforts of the following members of the AAPIiG Steering Committee:
+AAPIiG would not be possible without the collective efforts of the following members of the AAPIiG Steering Committee:
 
 **Christine Y. Chen**, Co-founder
 
@@ -14,13 +14,11 @@ This group would not be possible without the collective efforts of the following
 
 **Daniel E. Ibarra**, Co-founder
 
-<br/>
-
 **Akshay Mehra**
 
 **Caleb K. Walcott**
 
-**Caroline Juang** *(credit: logo design)*
+**Caroline Juang (credit: logo design)**
 
 **Emily Cardarelli**
 
@@ -30,6 +28,8 @@ This group would not be possible without the collective efforts of the following
 
 **Jonathan Lin**
 
+**Jasmeet Dhaliwal**
+
 **Kitrea P. Takata-Glushkoff**
 
 **Luan Heywood**
@@ -38,12 +38,18 @@ This group would not be possible without the collective efforts of the following
 
 **Renée Wang**
 
-**Sami Chen** 
+**Sami Chen**
 
 **Sara Kahanamoku**
 
 **Thi Truong**
 
+**Udita Mukherjee**
+
 **Victor Guevara**
 
-.... and more to come!
+**Yihang Fang**
+
+**Yueyi Che**
+
+...and more to come!
