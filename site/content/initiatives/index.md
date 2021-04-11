@@ -3,7 +3,7 @@ title: Initiatives
 menu: main
 weight: 50
 layout: eventListing
-events:
+initiatives:
     - image: ""
       title: "First Event"
       description: "Some description."
