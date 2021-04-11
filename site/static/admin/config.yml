@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
+local_backend: true
 publish_mode: editorial_workflow
 media_folder: "static/images/uploads"  # Media files will be stored in the repo under images/uploads
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
@@ -30,7 +31,7 @@ collections:
         name: "initiatives"
         file: "site/content/initiatives/index.md"
         folder: site/content/initiatives/
-        media_folder: 'img'
+        media_folder: '/img'
         fields:
           - label: Initiatives
             name: initiatives

@@ -1,9 +1,13 @@
 {{ define "main" }}
   <article class="container fillVerticalSpace">
     {{- .Content -}}
+    {{ $site := $.Site }}
+    {{ $thisPage := . }}
     <ul class="simpleListing">
-        {{ range .Params.events }}
+        {{ range .Params.initiatives }}
             <li>
+              {{ $thisPoster := ($thisPage.Resources.GetMatch .image) }}
+              {{ partial "responsiveImage" (dict "Site" $site "image" $thisPoster "attrs" (dict "class" "posterImage")) }}
               <strong>{{ .title | markdownify }}</strong>
               <br/>
               <em>{{ .dateTime | markdownify }}</em>
