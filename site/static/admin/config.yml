@@ -29,6 +29,8 @@ collections:
       - label: "Initiatives"
         name: "initiatives"
         file: "site/content/initiatives/index.md"
+        folder: site/content/initiatives/
+        media_folder: 'img'
         fields:
           - label: Initiatives
             name: initiatives
