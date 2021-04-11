@@ -26,3 +26,19 @@ collections:
               - {label: Position, name: position, widget: string, required: false}
               - {label: Institution, name: institution, widget: string, required: false}
               - {label: Contact, name: contact, widget: string, required: false}
+      - label: "Initiatives"
+        name: "initiatives"
+        file: "site/content/initiatives/index.md"
+        fields:
+          - label: Initiatives
+            name: initiatives
+            widget: list
+            fields:
+              - {label: Image, name: image, widget: image}
+              - {label: Title, name: title, widget: markdown, required: true}
+              - {label: Date and Time, name: dateTime, widget: string, required: false}
+              - {label: Description, name: description, widget: markdown, required: false}
+              - {label: Location, name: location, widget: markdown, required: false}
+              - {label: Who, name: who, widget: string, required: false}
+              - {label: Registration Link, name: registrationLink, widget: markdown, required: false}
+              - {label: Recordings, name: recordings, widget: markdown, required: false}         

@@ -1,0 +1,24 @@
+{{ define "main" }}
+  <article class="container fillVerticalSpace">
+    {{- .Content -}}
+    <ul class="simpleListing">
+        {{ range .Params.events }}
+            <li>
+              <strong>{{ .title | markdownify }}</strong>
+              <br/>
+              <em>{{ .dateTime | markdownify }}</em>
+              <br/>
+              {{ .description | markdownify }}
+              <br/>
+              {{ .location | markdownify }}
+              <br/>
+              {{ .who | markdownify }}
+              <br/>
+              {{ .registrationLink | markdownify }}
+              <br/>
+              {{ .recordings | markdownify }}
+            </li>
+        {{ end }}
+    </ul>
+  </article>
+{{ end }}
