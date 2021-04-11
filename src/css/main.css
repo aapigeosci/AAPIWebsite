@@ -51,13 +51,11 @@ a, a > figure, a > img {
 }
 
 a:hover, a:hover > figure, a:hover > img {
-  color: #red;
-  -webkit-filter: grayscale(15);
+  color: red;
   -webkit-transition: .25s cubic-bezier(.2,.6,.4,1);
 }
 
 a:visited{
-  color: #000;
 }
 
 
@@ -103,7 +101,7 @@ nav li{
 
 /* Page lists */
 
-.simpleListing {
+.simpleListing, .eventListing {
   list-style: none;
   padding: 0;
   display: grid;
@@ -111,8 +109,18 @@ nav li{
   grid-template-columns: repeat(2, 1fr);
 }
 
-.simpleListing li {
+.simpleListing li, .eventListing li {
   grid-column-end: span 2;
+}
+
+.simpleListing li{
+  padding: 1.8rem;
+  border: 1px solid #000;
+}
+
+.borderless li{
+  border: none;
+  padding: 0;
 }
 
 .summary{
@@ -153,6 +161,10 @@ footer{
   display: flex;
   flex-flow: column;
   height: 100%;
+}
+
+.googleForm{
+  text-align: center;
 }
 
 /* Media queries */

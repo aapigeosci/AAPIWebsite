@@ -3,7 +3,7 @@
     {{- .Content -}}
     {{ $site := $.Site }}
     {{ $thisPage := . }}
-    <ul class="simpleListing">
+    <ul class="eventListing">
         {{ range .Params.initiatives }}
             <li>
               {{ $thisPoster := ($thisPage.Resources.GetMatch .image) }}
