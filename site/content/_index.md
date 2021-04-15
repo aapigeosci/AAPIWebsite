@@ -2,7 +2,7 @@
 title: AAPiG
 menu: main
 weight: -100
-image: ""
+image: /images/uploads/aapiig_website_cover_4_2021.png
 indexText: >-
   # Asian Americans and Pacific Islanders in Geosciences
 
