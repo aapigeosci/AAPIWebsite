@@ -32,4 +32,35 @@ initiatives:
       will present a short presentation and moderate a community discussion.
     dateTime: "Sunday, May 16, from 2:00 to 3:30PM Eastern "
     who: Open to all
+  - image: /img/1.png
+    title: "**AAPIiG Roundtable Discussion Series: Navigating Intersectionality and
+      Agency in Geosciences: Part 1**"
+    dateTime: Thursday, May 20, from 4:30 to 6:00PM Eastern
+    description: >-
+      In the spirit of mentoring as a collective, we are organizing a regular
+      “AAPIiG Roundtable Discussion Series” where we highlight members of our
+      incredible community and host a panel discussion surrounding a particular
+      theme.
+
+
+      Our inaugural AAPIiG Roundtable comes in two parts and has the following theme: “Navigating Intersectionality and Agency in the Geosciences.” 
+
+
+      Part 1 features the following panelists:
+
+
+      * **Dr. Rosie ʻAnolani Alegado**, Associate Professor of Oceanography,  Director of the Sea Grant Center of Excellence in Integrated Knowledge Systems, Director of the SOEST Maile Mentoring Bridge Program
+
+      * **Dr. Tripti Bhattacharya**, Thonis Family Assistant Professor, Syracuse University
+
+      * **Gabriel-Philip Santos**, Collections Manager & Outreach Coordinator, Alf Museum of Paleontology
+
+
+      Dr. Rosie ‘Anolani Alegado is an associate professor at the University of Hawai‘i at Mānoa who focuses on the interaction between bacteria and the adaptive potential of their ecosystem. 
+
+
+      Dr. Tripti Bhattacharya is an assistant professor at Syracuse University and her research focuses on reconstructing past climates to understand the dynamics of rainfall patterns. 
+
+
+      Gabriel-Philip Santos is the Collections Manager and outreach coordinator at the Raymond M. Alf Museum of Paleontology who is passionate about science communication and diversity, equity, inclusion, and accessibility in science education and STEM.
 ---
