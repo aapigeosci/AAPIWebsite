@@ -63,4 +63,40 @@ initiatives:
 
 
       Gabriel-Philip Santos is the Collections Manager and outreach coordinator at the Raymond M. Alf Museum of Paleontology who is passionate about science communication and diversity, equity, inclusion, and accessibility in science education and STEM.
+  - image: /img/2.png
+    title: "**AAPIiG Roundtable Discussion Series: Navigating Intersectionality and
+      Agency in Geosciences: Part 2**"
+    dateTime: Wednesday, June 2, from 6:00 to 7:30PM Eastern
+    description: >-
+      In the spirit of mentoring as a collective, we are organizing a regular
+      “AAPIiG Roundtable Discussion Series” where we highlight members of our
+      incredible community and host a panel discussion surrounding a particular
+      theme.
+
+
+      Our inaugural AAPIiG Roundtable comes in two parts and has the following theme: “Navigating Intersectionality and Agency in the Geosciences.” 
+
+
+      Part 1 features the following panelists:
+
+
+      * **Dr. Aradhna Tripati**, Director, Center for Diverse Leadership in Science, Associate Professor at UCLA
+
+      * **Dr. Bala Chaudhary**, Assistant Professor, Department of Environmental Science and Studies, DePaul University
+
+      * **Dr. George I. Matsumoto**, Senior Education and Research Specialist, Monterey Bay Aquarium Research Institute
+
+      * **Dr. Sora L. Kim**, Assistant Professor, Faculty Director of SIELO (Stable Isotope Ecosystem Laboratory of) UC Merced
+
+
+      Dr. Aradhna Tripati is an associate professor at UCLA who uses 'clumped' (doubly substituted) isotopes to study the dynamics of past and future climate change.
+
+
+      Dr. Bala Chaudhary is an assistant professor at DePaul University whose research focuses on plant-soil-microbial ecology, plant microbiome functioning, and the emerging field of microbial movement ecology.
+
+
+      Dr. George I Matsumoto is the Senior Education and Research Specialist at the Monterey Bay Aquarium Research Institute and coordinates seminars, summer internships, distance education, professional development workshops, and MBARI's partnership with other institutions.
+
+
+      Dr. Sora L. Kim is an assistant professor at UC Merced whose research interests include paleoecology, climate change, environmental reconstruction and stable isotope biogeochemistry.
 ---
