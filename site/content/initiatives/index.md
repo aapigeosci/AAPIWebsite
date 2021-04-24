@@ -4,7 +4,7 @@ menu: main
 weight: 50
 layout: eventListing
 initiatives:
-  - image: img/aapilogo1500.png
+  - image: /img/may8_modelminority_darby_twitter.png
     title: "***Model Minority: Do the Math (2013)* film screening and conversation
       with filmmaker Dr. Darby Lipo Price**"
     description: >-
@@ -23,13 +23,4 @@ initiatives:
     who: Open to all
     registrationLink: ""
     recordings: ""
-  - title: "**The Historical Context of the Model Minority Myth, with Renée Wang**"
-    dateTime: Sunday, May 16, from 2:00 to 3:30PM EDT
-    description: Join AAPIiG for a discussion of the historical context of the Model
-      Minority Myth. Renée Wang, PhD student at Caltech and author of the
-      article, [How the Model Minority Myth Harms Us
-      All](https://urldefense.us/v3/__https://caltechletters.org/viewpoints/model-minority-myth__;!!G2kpM7uM-TzIFchu!n3APv6JKr6PLgftcLbk8tN-P8EJKYQe6U-p2dPAic0Dzj5PM1Axl-cuyxrMB4aW_ww$),
-      will present a short presentation and moderate a community discussion.
-    who: Open to all
-    registrationLink: ""
 ---
