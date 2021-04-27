@@ -38,7 +38,8 @@ img {
 }
 
 nav img {
-  height: 7.2rem;
+  min-width: 3.6rem;
+  max-height: 7.2rem;
 }
 
 /* Links */
@@ -79,6 +80,7 @@ nav ul{
 
 nav li{
   padding: 0;
+  margin-right: 1.8rem;
 }
 
 .mainNavMenu {

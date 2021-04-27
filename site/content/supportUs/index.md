@@ -16,6 +16,6 @@ To do this, we need your help. Consider supporting our organization monetarily w
 
 ***Support us today!***
 
-https://www.paypal.com/donate/?hosted_button_id=MRZKXR2SUZP2S
+<!-- PayPal Logo --><table border="0" cellpadding="10" cellspacing="0" align="center"><tr><td align="center"></td></tr><tr><td align="center"><a href="https://www.paypal.com/c2/webapps/mpp/paypal-popup?locale.x=en_C2" title="PayPal" onclick="javascript:window.open('https://www.paypal.com/donate/?hosted_button_id=MRZKXR2SUZP2S','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/C2/logos-buttons/optimize/44_Grey_PayPal_Pill_Button.png" alt="PayPal" /></a></td></tr></table><!-- PayPal Logo -->
 
 https://www.redbubble.com/shop/ap/77159485 and https://www.redbubble.com/shop/ap/77153691

@@ -13,8 +13,6 @@ collections:
         name: "index"
         file: "site/content/_index.md"
         fields:
-          - {label: Image, name: image, widget: image, required: false}
-          - {label: Image Alt Text, name: altText, widget: string, required: false}
           - {label: "Homepage text", name: indexText, widget: markdown}
       - label: "Steering Committee"
         name: "steeringCommittee"
