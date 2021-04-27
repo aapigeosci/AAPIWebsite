@@ -44,8 +44,6 @@ AAPIiG would not be possible without the collective efforts of the following mem
 
 **Thi Truong**
 
-**Udita Mukherjee**
-
 **Victor Guevara**
 
 **Yihang Fang**

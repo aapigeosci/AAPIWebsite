@@ -4,6 +4,7 @@ menu:
   main:
     parent: Get Involved
 summary: For our online activities and spaces, feel free to contact any Online Community Administrator for assistance with any issue.
+weight: 50
 layout: CAGridListing
 individuals:
   - name: "**Caleb K. Walcott** (he/him)"

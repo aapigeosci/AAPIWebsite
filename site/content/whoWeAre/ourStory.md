@@ -16,7 +16,7 @@ The AAPI categorization is very broad, encompassing individuals who can trace th
 
 Thus, this organization seeks to unite AAPIs in geosciences together in a community that uplifts and promotes justice for all marginalized groups within the discipline and the world at large. Ongoing experiences of violence, discrimination, and bias by the AAPI community are part of the broader historical context of racism, white supremacy, and settler colonialism. As we work to address AAPI-specific issues, we do so in solidarity with Black, Indigenous, and other marginalized communities. Together, we will learn ways to support one another while forming understandings and relationships both internally, within the AAPI community, and externally, with other communities, to imagine and bring forth a better future for geosciences.
 
-*This passage is abridged from the opening remarks of the first AAPIiG Meet-Up at the AGU Fall Meeting in December 2020.*
+*This passage is abridged from the [opening remarks](https://cyc.medium.com/aapi-in-geosci-introductory-remarks-at-the-2020-agu-fall-meeting-meet-up-376e4d2aa83b) of the first AAPIiG Meet-Up at the AGU Fall Meeting in December 2020.*
 
 **Our Logo**
 

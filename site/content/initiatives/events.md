@@ -1,6 +1,8 @@
 ---
-title: Initiatives
-menu: main
+title: Events
+menu: 
+  main:
+    parent: Initiatives
 weight: 50
 layout: eventListing
 initiatives:

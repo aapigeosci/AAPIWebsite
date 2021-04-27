@@ -3,6 +3,7 @@ title: Join Us
 menu: 
     main:
         parent: Get Involved
+weight: 10
 summary: Sign up to receive email announcements about events, activities, initiatives and/or an invitation to our Slack workspace community.
 ---
 
