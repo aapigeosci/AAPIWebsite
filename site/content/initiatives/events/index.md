@@ -19,7 +19,7 @@ initiatives:
 
       **Dr. Darby Lipo Price** (he/him) co-produced the Telly award winning PBS documentaries: *Model Minority: Do the Math (2013)*, and *Crossing the Line: Multiracial Comedians (2008)* with Teja Arboleda.   Price completed a Ph.D. at the University of California at Berkeley in Comparative Ethnic Studies, and currently teaches Asian and Asian American Studies, and Native American Studies at Merritt College.  He has also taught similar courses at UC Berkeley, UC Santa Cruz, San Jose State U, DePaul U, Vassar, Mills, and Laney.  Price has published in *Amerasia Journal*, *Critical Mass: A Journal of Asian American Cultural Criticism*, T*he American Indian Culture and Research Journal*, and several anthologies.  In his free time, Price volunteers as a docent at the Portland Chinatown Museum and enjoys playing guitar and gardening.
     dateTime: Saturday, May 8, from 4:00 to 5:30PM EDT
-    location: Zoom (virtual)
+    location: "**Where**: Zoom (virtual)"
     who: Open to the entire Earth sciences community
     registrationLink: Register for this event at
       [www.aapigeosci.org/register](www.aapigeosci.org/register).
