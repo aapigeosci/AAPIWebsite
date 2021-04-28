@@ -43,9 +43,9 @@ collections:
               - {label: Position, name: position, widget: string, required: false}
               - {label: Institution, name: institution, widget: string, required: false}
               - {label: Contact, name: contact, widget: string, required: false}
-      - label: "Initiatives"
-        name: "initiatives"
-        file: "site/content/initiatives/index.md"
+      - label: "Events"
+        name: "events"
+        file: "site/content/initiatives/events.md"
         folder: site/content/initiatives/
         media_folder: '/img'
         fields:
