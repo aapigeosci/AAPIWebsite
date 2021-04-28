@@ -29,8 +29,8 @@ collections:
               - {label: Position, name: position, widget: string, required: false}
               - {label: Institution, name: institution, widget: string, required: false}
               - {label: Short bio, name: bio, widget: markdown, required: false}
-              - {label: Website One, name: websiteOne, widget: string, required: false}
-              - {label: Website Two, name: websiteTwo, widget: string, required: false}
+              - {label: Website, name: website, widget: string, required: false}
+              - {label: Social Media, name: socialMedia, widget: string, required: false}
       - label: "Community Administrators"
         name: "communityAdministrators"
         file: "site/content/whoWeAre/communityAdministrators.md"
