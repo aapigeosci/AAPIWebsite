@@ -45,9 +45,9 @@ collections:
               - {label: Contact, name: contact, widget: string, required: false}
       - label: "Events"
         name: "events"
-        file: "site/content/initiatives/events.md"
-        folder: site/content/initiatives/
-        media_folder: '/img'
+        file: "site/content/initiatives/events/index.md"
+        folder: site/content/initiatives/events/img/
+        media_folder: 'img'
         fields:
           - label: Initiatives
             name: initiatives

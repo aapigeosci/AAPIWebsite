@@ -8,19 +8,32 @@
             <li>
               {{ $thisPoster := ($thisPage.Resources.GetMatch .image) }}
               {{ partial "responsiveImage" (dict "Site" $site "image" $thisPoster "attrs" (dict "class" "posterImage")) }}
+              <br />
               <strong>{{ .title | markdownify }}</strong>
-              <br/>
-              <em>{{ .dateTime | markdownify }}</em>
-              <br/>
-              {{ .description | markdownify }}
-              <br/>
-              {{ .location | markdownify }}
-              <br/>
-              {{ .who | markdownify }}
-              <br/>
-              {{ .registrationLink | markdownify }}
-              <br/>
-              {{ .recordings | markdownify }}
+              {{ with .dateTime }}
+                <br/>
+                <em>{{ . | markdownify }}</em>
+              {{ end }}
+              {{ with .description }}
+                <br/>
+                {{ . | markdownify }}
+              {{ end }}
+              {{ with .location }}
+                <br/>
+                {{ . | markdownify }}
+              {{ end }}
+              {{ with .who }}
+                <br/>
+                <em>{{ . | markdownify }}</em>
+              {{ end }}
+              {{ with .registrationLink }}
+                <br/>
+                {{ . | markdownify }}
+              {{ end }}
+              {{ with .recordings }}
+                <br/>
+                {{ . | markdownify }}
+              {{ end }}
             </li>
         {{ end }}
     </ul>

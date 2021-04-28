@@ -115,6 +115,10 @@ nav li{
   grid-column-end: span 2;
 }
 
+.eventListing li {
+  margin-bottom: 1.8rem;
+}
+
 .simpleListing li{
   padding: 1.8rem;
   border: 1px solid #000;
