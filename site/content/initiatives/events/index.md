@@ -98,7 +98,7 @@ initiatives:
       Dr. Bala Chaudhary is an assistant professor at DePaul University whose research focuses on plant-soil-microbial ecology, plant microbiome functioning, and the emerging field of microbial movement ecology.
 
 
-      Dr. George I Matsumoto is the Senior Education and Research Specialist at the Monterey Bay Aquarium Research Institute and coordinates seminars, summer internships, distance education, professional development workshops, and MBARI's partnership with other institutions.
+      Dr. George I. Matsumoto is the Senior Education and Research Specialist at the Monterey Bay Aquarium Research Institute and coordinates seminars, summer internships, distance education, professional development workshops, and MBARI's partnership with other institutions.
 
 
       Dr. Sora L. Kim is an assistant professor at UC Merced whose research interests include paleoecology, climate change, environmental reconstruction and stable isotope biogeochemistry.
