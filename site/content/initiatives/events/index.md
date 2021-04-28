@@ -36,7 +36,7 @@ initiatives:
     who: Open to the entire Earth sciences community
     location: "**Where**: Zoom (virtual)"
     registrationLink: Register at [www.aapigeosci.org/register](www.aapigeosci.org/register).
-  - image: img/1.png
+  - image: img/may20_roundtablepart1_twitter.png
     title: "**AAPIiG Roundtable Discussion Series: Navigating Intersectionality and
       Agency in Geosciences: Part 1**"
     dateTime: Thursday, May 20, from 4:30 to 6:00PM Eastern
@@ -63,7 +63,10 @@ initiatives:
       Dr. Tripti Bhattacharya is an assistant professor at Syracuse University and her research focuses on reconstructing past climates to understand the dynamics of rainfall patterns. 
 
       Gabriel-Philip Santos is the Collections Manager and outreach coordinator at the Raymond M. Alf Museum of Paleontology who is passionate about science communication and diversity, equity, inclusion, and accessibility in science education and STEM.
-  - image: img/2.png
+    location: "**Where**: Zoom (virtual)"
+    who: Open to the entire Earth sciences community
+    registrationLink: Register at [www.aapigeosci.org/register](www.aapigeosci.org/register).
+  - image: img/june2_roundtablepart2_twitter.png
     title: "**AAPIiG Roundtable Discussion Series: Navigating Intersectionality and
       Agency in Geosciences: Part 2**"
     dateTime: Wednesday, June 2, from 6:00 to 7:30PM Eastern
@@ -99,4 +102,7 @@ initiatives:
 
 
       Dr. Sora L. Kim is an assistant professor at UC Merced whose research interests include paleoecology, climate change, environmental reconstruction and stable isotope biogeochemistry.
+    location: "**Where**: Zoom (virtual)"
+    who: Open to the entire Earth sciences community
+    registrationLink: Register at [www.aapigeosci.org/register](www.aapigeosci.org/register).
 ---
