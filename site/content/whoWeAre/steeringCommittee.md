@@ -5,10 +5,12 @@ menu:
     parent: Who We Are
 summary: The leaders and organizers who make AAPIiG happen.
 members:
-  - name: Christine Chen
+  - name: Christine Y. Chen
     pronouns: She/her
     position: "Postdoctoral Researcher "
-    institution: "Lawrence Livermore National Labs "
+    institution: Lawrence Livermore National Laboratory
+    photo: /img/redwoodcity_bay_square_800px-christine-y.-chen.jpg
+    websiteOne: ""
 ---
 
 AAPIiG would not be possible without the collective efforts of the following members of the AAPIiG Steering Committee:
