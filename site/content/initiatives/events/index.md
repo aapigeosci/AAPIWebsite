@@ -22,7 +22,7 @@ initiatives:
     location: "**Where**: Zoom (virtual)"
     who: Open to the entire Earth sciences community
     registrationLink: Register for this event at
-      [www.aapigeosci.org/register](www.aapigeosci.org/register).
+      [/register](www.aapigeosci.org/register).
     recordings: ""
   - image: img/may16_modelminority_reneewang_twitter.png
     title: "**The Historical Context of the Model Minority Myth, with Renée Wang**"
@@ -35,7 +35,7 @@ initiatives:
     dateTime: "Sunday, May 16, from 2:00 to 3:30PM Eastern "
     who: Open to the entire Earth sciences community
     location: "**Where**: Zoom (virtual)"
-    registrationLink: Register at [www.aapigeosci.org/register](www.aapigeosci.org/register).
+    registrationLink: Register at [/register](www.aapigeosci.org/register).
   - image: img/may20_roundtablepart1_twitter.png
     title: "**AAPIiG Roundtable Discussion Series: Navigating Intersectionality and
       Agency in Geosciences: Part 1**"
@@ -65,7 +65,7 @@ initiatives:
       Gabriel-Philip Santos is the Collections Manager and outreach coordinator at the Raymond M. Alf Museum of Paleontology who is passionate about science communication and diversity, equity, inclusion, and accessibility in science education and STEM.
     location: "**Where**: Zoom (virtual)"
     who: Open to the entire Earth sciences community
-    registrationLink: Register at [www.aapigeosci.org/register](www.aapigeosci.org/register).
+    registrationLink: Register at [/register](www.aapigeosci.org/register).
   - image: img/june2_roundtablepart2_twitter.png
     title: "**AAPIiG Roundtable Discussion Series: Navigating Intersectionality and
       Agency in Geosciences: Part 2**"
@@ -104,5 +104,5 @@ initiatives:
       Dr. Sora L. Kim is an assistant professor at UC Merced whose research interests include paleoecology, climate change, environmental reconstruction and stable isotope biogeochemistry.
     location: "**Where**: Zoom (virtual)"
     who: Open to the entire Earth sciences community
-    registrationLink: Register at [www.aapigeosci.org/register](www.aapigeosci.org/register).
+    registrationLink: Register at [/register](www.aapigeosci.org/register).
 ---
