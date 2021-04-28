@@ -1,6 +1,6 @@
 ---
 title: Events
-menu: 
+menu:
   main:
     parent: Initiatives
 layout: eventListing
@@ -16,7 +16,7 @@ initiatives:
       and Asian-American Studies and Native American Studies at Merritt College.
       Sami Chen, PhD student at Stanford, will moderate the conversation.\
 
-      
+
       **Dr. Darby Lipo Price** (he/him) co-produced the Telly award winning PBS documentaries: *Model Minority: Do the Math (2013)*, and *Crossing the Line: Multiracial Comedians (2008)* with Teja Arboleda.   Price completed a Ph.D. at the University of California at Berkeley in Comparative Ethnic Studies, and currently teaches Asian and Asian American Studies, and Native American Studies at Merritt College.  He has also taught similar courses at UC Berkeley, UC Santa Cruz, San Jose State U, DePaul U, Vassar, Mills, and Laney.  Price has published in *Amerasia Journal*, *Critical Mass: A Journal of Asian American Cultural Criticism*, T*he American Indian Culture and Research Journal*, and several anthologies.  In his free time, Price volunteers as a docent at the Portland Chinatown Museum and enjoys playing guitar and gardening.
     dateTime: Saturday, May 8, from 4:00 to 5:30PM EDT
     location: ""
@@ -26,7 +26,11 @@ initiatives:
   - image: img/may16_modelminority_renee_twitter.png
     title: "**The Historical Context of the Model Minority Myth, with Renée Wang**"
     description: >-
-      Join AAPIiG for a discussion of the historical context of the Model Minority Myth. Renée Wang, PhD student at Caltech and author of the article, [How the Model Minority Myth Harms Us All](https://caltechletters.org/viewpoints/model-minority-myth), will present a short presentation and moderate a community discussion.
+      Join AAPIiG for a discussion of the historical context of the Model
+      Minority Myth. 
+
+
+      Renée Wang, PhD student at Caltech and author of the article, [How the Model Minority Myth Harms Us All](https://caltechletters.org/viewpoints/model-minority-myth), will present a short presentation and moderate a community discussion.
     dateTime: "Sunday, May 16, from 2:00 to 3:30PM Eastern "
     who: Open to all
   - image: img/1.png
@@ -34,7 +38,10 @@ initiatives:
       Agency in Geosciences: Part 1**"
     dateTime: Thursday, May 20, from 4:30 to 6:00PM Eastern
     description: >-
-      In the spirit of mentoring as a collective, we are organizing a regular “AAPIiG Roundtable Discussion Series” where we highlight members of our incredible community and host a panel discussion surrounding a particular theme.
+      In the spirit of mentoring as a collective, we are organizing a regular
+      “AAPIiG Roundtable Discussion Series” where we highlight members of our
+      incredible community and host a panel discussion surrounding a particular
+      theme.
 
       Our inaugural AAPIiG Roundtable comes in two parts and has the following theme: “Navigating Intersectionality and Agency in the Geosciences.” 
 
