@@ -24,7 +24,7 @@ initiatives:
     registrationLink: Register for this event at
       [www.aapigeosci.org/register](www.aapigeosci.org/register).
     recordings: ""
-  - image: img/may16_modelminority_renee_twitter.png
+  - image: img/may16_modelminority_reneewang_twitter.png
     title: "**The Historical Context of the Model Minority Myth, with Renée Wang**"
     description: >-
       Join AAPIiG for a discussion of the historical context of the Model
@@ -33,7 +33,9 @@ initiatives:
 
       Renée Wang, PhD student at Caltech and author of the article, [How the Model Minority Myth Harms Us All](https://caltechletters.org/viewpoints/model-minority-myth), will present a short presentation and moderate a community discussion.
     dateTime: "Sunday, May 16, from 2:00 to 3:30PM Eastern "
-    who: Open to all
+    who: Open to the entire Earth sciences community
+    location: "**Where**: Zoom (virtual)"
+    registrationLink: Register at [www.aapigeosci.org/register](www.aapigeosci.org/register).
   - image: img/1.png
     title: "**AAPIiG Roundtable Discussion Series: Navigating Intersectionality and
       Agency in Geosciences: Part 1**"
