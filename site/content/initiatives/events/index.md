@@ -5,7 +5,7 @@ menu:
     parent: Initiatives
 layout: eventListing
 initiatives:
-  - image: img/may8_modelminority_darby_twitter.png
+  - image: img/may8_modelminority_darbyprice_twitter.png
     title: "***Model Minority: Do the Math (2013)* film screening and conversation
       with filmmaker Dr. Darby Lipo Price**"
     description: >-
@@ -19,11 +19,12 @@ initiatives:
 
       **Dr. Darby Lipo Price** (he/him) co-produced the Telly award winning PBS documentaries: *Model Minority: Do the Math (2013)*, and *Crossing the Line: Multiracial Comedians (2008)* with Teja Arboleda.   Price completed a Ph.D. at the University of California at Berkeley in Comparative Ethnic Studies, and currently teaches Asian and Asian American Studies, and Native American Studies at Merritt College.  He has also taught similar courses at UC Berkeley, UC Santa Cruz, San Jose State U, DePaul U, Vassar, Mills, and Laney.  Price has published in *Amerasia Journal*, *Critical Mass: A Journal of Asian American Cultural Criticism*, T*he American Indian Culture and Research Journal*, and several anthologies.  In his free time, Price volunteers as a docent at the Portland Chinatown Museum and enjoys playing guitar and gardening.
     dateTime: Saturday, May 8, from 4:00 to 5:30PM EDT
-    location: ""
-    who: Open to all
-    registrationLink: ""
+    location: "**Where**: Zoom (virtual)"
+    who: Open to the entire Earth sciences community
+    registrationLink: Register for this event at
+      [www.aapigeosci.org/register](www.aapigeosci.org/register).
     recordings: ""
-  - image: img/may16_modelminority_renee_twitter.png
+  - image: img/may16_modelminority_reneewang_twitter.png
     title: "**The Historical Context of the Model Minority Myth, with Renée Wang**"
     description: >-
       Join AAPIiG for a discussion of the historical context of the Model
@@ -32,8 +33,10 @@ initiatives:
 
       Renée Wang, PhD student at Caltech and author of the article, [How the Model Minority Myth Harms Us All](https://caltechletters.org/viewpoints/model-minority-myth), will present a short presentation and moderate a community discussion.
     dateTime: "Sunday, May 16, from 2:00 to 3:30PM Eastern "
-    who: Open to all
-  - image: img/1.png
+    who: Open to the entire Earth sciences community
+    location: "**Where**: Zoom (virtual)"
+    registrationLink: Register at [www.aapigeosci.org/register](www.aapigeosci.org/register).
+  - image: img/may20_roundtablepart1_twitter.png
     title: "**AAPIiG Roundtable Discussion Series: Navigating Intersectionality and
       Agency in Geosciences: Part 1**"
     dateTime: Thursday, May 20, from 4:30 to 6:00PM Eastern
@@ -60,7 +63,10 @@ initiatives:
       Dr. Tripti Bhattacharya is an assistant professor at Syracuse University and her research focuses on reconstructing past climates to understand the dynamics of rainfall patterns. 
 
       Gabriel-Philip Santos is the Collections Manager and outreach coordinator at the Raymond M. Alf Museum of Paleontology who is passionate about science communication and diversity, equity, inclusion, and accessibility in science education and STEM.
-  - image: img/2.png
+    location: "**Where**: Zoom (virtual)"
+    who: Open to the entire Earth sciences community
+    registrationLink: Register at [www.aapigeosci.org/register](www.aapigeosci.org/register).
+  - image: img/june2_roundtablepart2_twitter.png
     title: "**AAPIiG Roundtable Discussion Series: Navigating Intersectionality and
       Agency in Geosciences: Part 2**"
     dateTime: Wednesday, June 2, from 6:00 to 7:30PM Eastern
@@ -92,8 +98,11 @@ initiatives:
       Dr. Bala Chaudhary is an assistant professor at DePaul University whose research focuses on plant-soil-microbial ecology, plant microbiome functioning, and the emerging field of microbial movement ecology.
 
 
-      Dr. George I Matsumoto is the Senior Education and Research Specialist at the Monterey Bay Aquarium Research Institute and coordinates seminars, summer internships, distance education, professional development workshops, and MBARI's partnership with other institutions.
+      Dr. George I. Matsumoto is the Senior Education and Research Specialist at the Monterey Bay Aquarium Research Institute and coordinates seminars, summer internships, distance education, professional development workshops, and MBARI's partnership with other institutions.
 
 
       Dr. Sora L. Kim is an assistant professor at UC Merced whose research interests include paleoecology, climate change, environmental reconstruction and stable isotope biogeochemistry.
+    location: "**Where**: Zoom (virtual)"
+    who: Open to the entire Earth sciences community
+    registrationLink: Register at [www.aapigeosci.org/register](www.aapigeosci.org/register).
 ---
