@@ -11,6 +11,9 @@ members:
     institution: Lawrence Livermore National Laboratory
     photo: /img/redwoodcity_bay_square_800px-christine-y.-chen.jpg
     websiteOne: ""
+  - photo: /img/danfinalsquare-daniel-ibarra.jpg
+    name: Daniel E. Ibarra
+    pronouns: He/him
 ---
 
 AAPIiG would not be possible without the collective efforts of the following members of the AAPIiG Steering Committee:
