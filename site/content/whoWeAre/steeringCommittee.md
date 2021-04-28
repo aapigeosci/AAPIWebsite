@@ -1,9 +1,14 @@
 ---
 title: Steering Committee
-menu: 
-    main:
-        parent: Who We Are
-summary: "The leaders and organizers who make AAPIiG happen."
+menu:
+  main:
+    parent: Who We Are
+summary: The leaders and organizers who make AAPIiG happen.
+members:
+  - name: Christine Chen
+    pronouns: She/her
+    position: "Postdoctoral Researcher "
+    institution: "Lawrence Livermore National Labs "
 ---
 
 AAPIiG would not be possible without the collective efforts of the following members of the AAPIiG Steering Committee:
