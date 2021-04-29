@@ -46,6 +46,18 @@ members:
     position: Post-baccalaureate student
     institution: Colorado School of Mines
     socialMedia: http://www.instagram.com/stellasgaze30
+  - name: Jeemin Rhim
+    pronouns: she/her
+    position: Postdoctoral Fellow
+    institution: Dartmouth College
+    website: https://www.dartmouth.edu/sof/fellowships/present.html#Rhim
+    socialMedia: https://twitter.com/jeeminhrhim
+    photo: /img/bl1y9cyb_400x400-jeemin-rhim.jpg
+  - name: Jonathan Lin
+    pronouns: he/him
+    position: PhD student
+    institution: Massachusetts Institute of Technology
+    website: linjonathan.github.io
 ---
 
 AAPIiG would not be possible without the collective efforts of the following members of the AAPIiG Steering Committee:
