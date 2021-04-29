@@ -19,6 +19,26 @@ members:
     website: https://sites.brown.edu/ibarra-lab/
     socialMedia: https://twitter.com/Dan_E_Ibarra
     bio: ""
+  - photo: /img/kim-lau_img_6162.jpg
+    name: Kimberly Lau
+    pronouns: she/her
+    position: Assistant Professor
+    institution: Penn State
+    website: https://www.geosc.psu.edu/directory/kimberly-lau
+  - name: Akshay Mehra
+    institution: Dartmouth University
+  - photo: /img/img_0721_crop-caleb-walcott.jpg
+    name: Caleb Kazunari Walcott
+    pronouns: he/him
+    position: Graduate Student
+    institution: University at Buffalo
+  - photo: /img/copy-of-img_8971-2-caroline-s-juang.jpg
+    name: Caroline Juang
+    pronouns: she/her
+    position: PhD Student
+    institution: Columbia University
+    website: https://carjuang.wixsite.com/portfolio
+    socialMedia: https://twitter.com/caro_in_space
 ---
 
 AAPIiG would not be possible without the collective efforts of the following members of the AAPIiG Steering Committee:
