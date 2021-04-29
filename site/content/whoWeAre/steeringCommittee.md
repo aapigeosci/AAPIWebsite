@@ -89,6 +89,12 @@ members:
     institution: Amherst College
     website: https://www.amherst.edu/people/facstaff/vguevara
     socialMedia: https://victoreguevara.weebly.com/
+  - photo: /img/field-yihangfang.jpg
+    name: Yihang Fang
+    pronouns: ""
+    position: PhD student
+    institution: University of Wisconsin-Madison
+    socialMedia: https://twitter.com/fangyihang
 ---
 
 AAPIiG would not be possible without the collective efforts of the following members of the AAPIiG Steering Committee:
