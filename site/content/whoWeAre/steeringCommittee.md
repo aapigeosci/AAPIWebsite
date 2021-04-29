@@ -40,6 +40,12 @@ members:
     website: https://carjuang.wixsite.com/portfolio
     socialMedia: https://twitter.com/caro_in_space
   - name: Emily Cardarelli
+  - name: Erika Valdueza
+    photo: /img/profile-pic-erika-valdueza.jpg
+    pronouns: she/her
+    position: Post-baccalaureate student
+    institution: Colorado School of Mines
+    socialMedia: http://www.instagram.com/stellasgaze30
 ---
 
 AAPIiG would not be possible without the collective efforts of the following members of the AAPIiG Steering Committee:
