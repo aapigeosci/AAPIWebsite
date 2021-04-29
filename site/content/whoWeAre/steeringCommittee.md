@@ -59,6 +59,13 @@ members:
     institution: Massachusetts Institute of Technology
     website: linjonathan.github.io
     photo: /img/jonathan_lin-jonathan-lin.jpg
+  - photo: /img/jkd_hiking_crop_square-jasmeet-dhaliwal.jpg
+    name: Jasmeet K. Dhaliwal
+    pronouns: she/her
+    position: Postdoctoral Researcher
+    institution: UC Santa Cruz
+    website: https://jasmeetkdhaliwal.wordpress.com/
+    socialMedia: https://twitter.com/MeteoretteFinds
   - photo: /img/aapi_headshot-priyanka-bose.jpg
     name: Priyanka Bose
     pronouns: she/her
