@@ -95,6 +95,13 @@ members:
     position: PhD student
     institution: University of Wisconsin-Madison
     socialMedia: https://twitter.com/fangyihang
+  - name: Yueyi Che
+    photo: /img/yueyi_che-yueyi-che.jpg
+    pronouns: she/her
+    position: Undergraduate Student
+    institution: University of California, Berkeley
+    website: www.linkedin.com/in/yueyi-che-2b79161a2
+    socialMedia: https://www.instagram.com/europa_science/
 ---
 
 AAPIiG would not be possible without the collective efforts of the following members of the AAPIiG Steering Committee:
