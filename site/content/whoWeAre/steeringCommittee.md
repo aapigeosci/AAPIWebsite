@@ -75,7 +75,6 @@ members:
     institution: Virginia Tech
     website: www.linkedin.com/in/priyanka-bose
     socialMedia: https://twitter.com/Lead_82
-  - name: Renée Wang
   - name: Sami Chen
   - name: Sara Tenamoeata Segura Kahanamoku
     pronouns: they/them
