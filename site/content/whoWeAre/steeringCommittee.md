@@ -82,6 +82,13 @@ members:
     institution: University of California, Berkeley
     website: ""
     socialMedia: https://twitter.com/sara_kahanamoku
+  - photo: /img/img_4943-victor-guevara.jpg
+    name: Victor Guevara
+    pronouns: he/his
+    position: Assistant Professor
+    institution: Amherst College
+    website: https://www.amherst.edu/people/facstaff/vguevara
+    socialMedia: https://victoreguevara.weebly.com/
 ---
 
 AAPIiG would not be possible without the collective efforts of the following members of the AAPIiG Steering Committee:
