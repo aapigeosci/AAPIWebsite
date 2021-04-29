@@ -66,6 +66,8 @@ members:
     institution: UC Santa Cruz
     website: https://jasmeetkdhaliwal.wordpress.com/
     socialMedia: https://twitter.com/MeteoretteFinds
+  - name: Kitrea P. Takata-Glushkoff
+  - name: Luan Heywood
   - photo: /img/aapi_headshot-priyanka-bose.jpg
     name: Priyanka Bose
     pronouns: she/her
@@ -73,6 +75,13 @@ members:
     institution: Virginia Tech
     website: www.linkedin.com/in/priyanka-bose
     socialMedia: https://twitter.com/Lead_82
+  - name: Renée Wang
+  - name: Sara Tenamoeata Segura Kahanamoku
+    pronouns: they/them
+    position: PhD candidate
+    institution: University of California, Berkeley
+    website: ""
+    socialMedia: https://twitter.com/sara_kahanamoku
 ---
 
 AAPIiG would not be possible without the collective efforts of the following members of the AAPIiG Steering Committee:
