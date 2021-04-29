@@ -58,6 +58,14 @@ members:
     position: PhD student
     institution: Massachusetts Institute of Technology
     website: linjonathan.github.io
+    photo: /img/jonathan_lin-jonathan-lin.jpg
+  - photo: /img/aapi_headshot-priyanka-bose.jpg
+    name: Priyanka Bose
+    pronouns: she/her
+    position: Ph.D. Candidate
+    institution: Virginia Tech
+    website: www.linkedin.com/in/priyanka-bose
+    socialMedia: https://twitter.com/Lead_82
 ---
 
 AAPIiG would not be possible without the collective efforts of the following members of the AAPIiG Steering Committee:
