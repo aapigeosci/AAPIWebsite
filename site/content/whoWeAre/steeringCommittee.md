@@ -12,8 +12,13 @@ members:
     photo: /img/redwoodcity_bay_square_800px-christine-y.-chen.jpg
     websiteOne: ""
   - photo: /img/danfinalsquare-daniel-ibarra.jpg
-    name: Daniel E. Ibarra
+    name: Daniel Enrique Ibarra
     pronouns: He/him
+    position: Assistant Professor
+    institution: Brown University
+    website: https://sites.brown.edu/ibarra-lab/
+    socialMedia: https://twitter.com/Dan_E_Ibarra
+    bio: ""
 ---
 
 AAPIiG would not be possible without the collective efforts of the following members of the AAPIiG Steering Committee:
