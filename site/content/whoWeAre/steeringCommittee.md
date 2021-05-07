@@ -134,8 +134,6 @@ AAPIiG would not be possible without the collective efforts of the following mem
 
 **Priyanka Bose**
 
-**Renée Wang**
-
 **Sami Chen**
 
 **Sara Kahanamoku**
