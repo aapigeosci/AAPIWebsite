@@ -30,9 +30,7 @@ initiatives:
       [Dr. Rosie ‘Anolani Alegado](http://alegadolab.org/) is an associate professor at the University of Hawai‘i at Mānoa who focuses on the interaction between bacteria and the adaptive potential of their ecosystem. 
 
 
-      [Dr. Tripti Bhattacharya](https://trbhatta.expressions.syr.edu/) is an assistant professor at Syracuse University and her research focuses on reconstructing past climates to understand the dynamics of rainfall patterns. 
-
-      Gabriel-Philip Santos is the Collections Manager and outreach coordinator at the Raymond M. Alf Museum of Paleontology who is passionate about science communication and diversity, equity, inclusion, and accessibility in science education and STEM.\
+      [Dr. Tripti Bhattacharya](https://trbhatta.expressions.syr.edu/) is an assistant professor at Syracuse University and her research focuses on reconstructing past climates to understand the dynamics of rainfall patterns. \
 
       \
 
