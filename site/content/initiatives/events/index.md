@@ -19,19 +19,24 @@ initiatives:
 
       Part 1 features the following panelists:
 
-      - **Dr. Rosie ʻAnolani Alegado**, Associate Professor of Oceanography,  Director of the Sea Grant Center of Excellence in Integrated Knowledge Systems, Director of the SOEST Maile Mentoring Bridge Program
 
-      - **Dr. Tripti Bhattacharya**, Thonis Family Assistant Professor, Syracuse University
+      * **Dr. Rosie ʻAnolani Alegado**, Associate Professor of Oceanography,  Director of the Sea Grant Center of Excellence in Integrated Knowledge Systems, Director of the SOEST Maile Mentoring Bridge Program
 
-      - **Gabriel-Philip Santos**, Collections Manager & Outreach Coordinator, Alf Museum of Paleontology
+      * **Dr. Tripti Bhattacharya**, Thonis Family Assistant Professor, Syracuse University
 
-
-      Dr. Rosie ‘Anolani Alegado is an associate professor at the University of Hawai‘i at Mānoa who focuses on the interaction between bacteria and the adaptive potential of their ecosystem. 
+      * **Gabriel-Philip Santos**, Collections Manager & Outreach Coordinator, Alf Museum of Paleontology
 
 
-      Dr. Tripti Bhattacharya is an assistant professor at Syracuse University and her research focuses on reconstructing past climates to understand the dynamics of rainfall patterns. 
+      [Dr. Rosie ‘Anolani Alegado](http://alegadolab.org/) is an associate professor at the University of Hawai‘i at Mānoa who focuses on the interaction between bacteria and the adaptive potential of their ecosystem. 
 
-      Gabriel-Philip Santos is the Collections Manager and outreach coordinator at the Raymond M. Alf Museum of Paleontology who is passionate about science communication and diversity, equity, inclusion, and accessibility in science education and STEM.
+
+      [Dr. Tripti Bhattacharya](https://trbhatta.expressions.syr.edu/) is an assistant professor at Syracuse University and her research focuses on reconstructing past climates to understand the dynamics of rainfall patterns. 
+
+      Gabriel-Philip Santos is the Collections Manager and outreach coordinator at the Raymond M. Alf Museum of Paleontology who is passionate about science communication and diversity, equity, inclusion, and accessibility in science education and STEM.\
+
+      \
+
+      [Gabriel-Philip Santos](http://paleoparadox.carrd.co/) is the Collections Manager and outreach coordinator at the Raymond M. Alf Museum of Paleontology who is passionate about science communication and diversity, equity, inclusion, and accessibility in science education and STEM.
     location: "**Where**: Zoom (virtual)"
     who: Open to the entire Earth sciences community
     registrationLink: Register at [www.aapigeosci.org/register](/register).
