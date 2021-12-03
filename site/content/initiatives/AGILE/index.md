@@ -4,6 +4,7 @@ menu:
   main:
     parent: Initiatives
 weight: 50
+draft: true
 ---
 
-A multi-institution project supported by an NSF GOLD-EN award that includes programs to enhance participation and belonging for Asian American and Pacific  Islander (AAPI) communities in geosciences.
+AGILE is a multi-institution project supported by an NSF GOLD-EN award that includes programs to enhance participation and belonging for Asian American and Pacific  Islander (AAPI) communities in geosciences.
