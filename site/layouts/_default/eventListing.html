@@ -1,4 +1,5 @@
 {{ define "main" }}
+{{ $page := . }}
   <article class="container fillVerticalSpace">
     {{- .Content -}}
     {{ $site := $.Site }}
@@ -7,7 +8,7 @@
         {{ range .Params.initiatives }}
             <li>
               {{ $thisPoster := ($thisPage.Resources.GetMatch .image) }}
-              {{ partial "responsiveImage" (dict "Site" $site "image" $thisPoster "attrs" (dict "class" "posterImage")) }}
+              {{ partial "responsiveImage" (dict "Page" $page "Destination" .image) }}
               <br />
               <strong>{{ .title | markdownify }}</strong>
               {{ with .dateTime }}

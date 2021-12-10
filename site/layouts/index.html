@@ -5,7 +5,7 @@
             <img src="{{ . }}", alt="{{ $allParams.altText }}" />
         {{ end }}
         {{ with .Params.indexText }}
-            {{ . | markdownify }}
+            {{ . | $.Page.RenderString }}
         {{ end }}
     </article>
 {{ end }}

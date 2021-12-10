@@ -28,6 +28,15 @@ body {
 
 /* Images */
 
+figure {
+  margin: 0;
+}
+
+figcaption{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
 img, embed, object, video {
   max-width: 100%;
 }
