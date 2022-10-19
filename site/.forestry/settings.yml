@@ -11,7 +11,7 @@ sections:
   match: "*"
 - type: directory
   path: site/content/whoWeAre
-  label: Whoweare
+  label: Who We Are
   create: all
   match: "**/*"
 - type: directory
