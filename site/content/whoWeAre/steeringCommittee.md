@@ -87,12 +87,6 @@ members:
 
 AAPIiG would not be possible without the collective efforts of the following members of the AAPIiG Steering Committee:
 
-**Christine Y. Chen**, Co-founder
-
-**Kimberly V. Lau**, Co-founder
-
-**Daniel E. Ibarra**, Co-founder
-
 **Akshay Mehra**
 
 **Caleb K. Walcott**
