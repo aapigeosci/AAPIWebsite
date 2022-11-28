@@ -7,6 +7,7 @@ summary: The leaders and organizers who make AAPIiG happen.
 members:
   - name: Akshay Mehra
     institution: Dartmouth University
+    website: https://www.akshaymehra.com
   - photo: /img/img_0721_crop-caleb-walcott.jpg
     name: Caleb Kazunari Walcott
     pronouns: he/him
