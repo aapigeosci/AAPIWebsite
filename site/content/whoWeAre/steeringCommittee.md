@@ -111,8 +111,6 @@ AAPIiG would not be possible without the collective efforts of the following mem
 
 **Sami Chen**
 
-**Sara Kahanamoku**
-
 **Thi Truong**
 
 **Victor Guevara**
