@@ -5,26 +5,6 @@ menu:
     parent: Who We Are
 summary: The leaders and organizers who make AAPIiG happen.
 members:
-  - name: Christine Y. Chen
-    pronouns: She/her
-    position: "Postdoctoral Researcher "
-    institution: Lawrence Livermore National Laboratory
-    photo: /img/redwoodcity_bay_square_800px-christine-y.-chen.jpg
-    websiteOne: ""
-  - photo: /img/danfinalsquare-daniel-ibarra.jpg
-    name: Daniel Enrique Ibarra
-    pronouns: He/him
-    position: Assistant Professor
-    institution: Brown University
-    website: https://sites.brown.edu/ibarra-lab/
-    socialMedia: https://twitter.com/Dan_E_Ibarra
-    bio: ""
-  - photo: /img/kim-lau_img_6162.jpg
-    name: Kimberly Lau
-    pronouns: she/her
-    position: Assistant Professor
-    institution: Penn State
-    website: https://www.geosc.psu.edu/directory/kimberly-lau
   - name: Akshay Mehra
     institution: Dartmouth University
   - photo: /img/img_0721_crop-caleb-walcott.jpg
