@@ -5,7 +5,7 @@ weight: 150
 ---
 **Social Media**
 
-We’re on social media! Follow us on Instagram ([@aapigeosci](https://www.instagram.com/aapigeosci/)) and Twitter ([@aapigeosci](https://twitter.com/aapigeosci)). 
+--We’re on social media! Follow us on Instagram ([@aapigeosci](https://www.instagram.com/aapigeosci/)) and Twitter ([@aapigeosci](https://twitter.com/aapigeosci)). 
 
 **Contact Us**
 <div class="googleForm">
